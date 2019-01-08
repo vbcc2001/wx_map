@@ -7,6 +7,7 @@ Page({
     wx.cloud.callFunction({
       name: 'MapTest',
     }).then(res=>{
+      console.log(res)
       console.log(res.result.member_map)
     })
   }

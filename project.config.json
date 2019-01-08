@@ -1,6 +1,6 @@
 {
 	"description": "项目配置文件",
-  "cloudfunctionRoot": "cloud/",
+	"cloudfunctionRoot": "cloud/",
 	"packOptions": {
 		"ignore": []
 	},
@@ -14,7 +14,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.4.3",
-	"appid": "wx997579bc0ef87297",
+	"appid": "wx1bdb4c6578e33ab9",
 	"projectname": "Map_Test",
 	"debugOptions": {
 		"hidedInDevtools": []
